@@ -30,13 +30,18 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [[menu.main]]
     name = "About"
-    url = "https://ubcrecycle.shinyapps.io/Textbook1/"
+    url = "/menu/"
     weight = 3
+    
+[[menu.main]]
+  name = "TExtbook directory"
+  url = "https://ubcrecycle.shinyapps.io/Textbook1/"
+  Weight = 4
 
 [[menu.main]]
     name = "Contact"
     url = "/contact/"
-    weight = 4
+    weight = 5
 
 [permalinks]
   post = "/:year/:month/:day/:slug/"
