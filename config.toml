@@ -30,7 +30,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [[menu.main]]
     name = "About"
-    url = "/about/"
+    url = "https://ubcrecycle.shinyapps.io/Textbook1/"
     weight = 3
 
 [[menu.main]]
